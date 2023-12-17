@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FagbenleLydia
-- 👀 I’m interested in web development
-- 🌱 I am a web developer
-- 💞️ I’m looking to collaborate on....
+- I am a FrontEnd Developer who has worked as an integral member of several teams of engineers in building scalable and well-tested applications. I have had the opportunity to work on products and services that are used by a large number of users on a daily basis. Flexibility to respond to different work situations.
+- I consume APIs
+- Skills: HTML,CSS,Tailwindcss,Reactjs,Javascript,Nextjs,Typescript,MaterialUi,Styledcomponents,UI/UX Designs.
 - 📫 How to reach me @lhydiaa._
 
 <!---
